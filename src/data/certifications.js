@@ -1,0 +1,247 @@
+// Certifications Data — Ordered strictly from Newest to Oldest based on printed certificate dates.
+// NOTE: Saylor Academy General Chemistry is excluded per instructions.
+
+export const certificationsData = [
+  {
+    id: "dev-foundations",
+    title: "Developer Foundations",
+    issuer: "NxtWave Academy",
+    date: "August 2026",
+    year: 2026,
+    month: 8,
+    category: "Programming",
+    fileUrl: "/certificates/Developer Foundations.jpg",
+    icon: "Code2",
+    credentialId: "NXT-DEV-2026"
+  },
+  {
+    id: "internship-cert",
+    title: "QC & QA Industrial Internship Certificate",
+    issuer: "Triveni Formulations Ltd.",
+    date: "July 2026",
+    year: 2026,
+    month: 7,
+    category: "Biotechnology",
+    fileUrl: "/certificates/Internship Certificate..jpg",
+    icon: "Award",
+    credentialId: "TRIVENI-QCQA-2026"
+  },
+  {
+    id: "hackathon-bio",
+    title: "Genome X: Bio Innovation Challenge",
+    issuer: "Lovely Professional University",
+    date: "May 2026",
+    year: 2026,
+    month: 5,
+    category: "Hackathons",
+    fileUrl: "/certificates/Hackathon Certificate_page-0001.jpg",
+    icon: "Award",
+    credentialId: "LPU-GENOMEX-2026"
+  },
+  {
+    id: "html-css-2",
+    title: "CSS Flexbox & Tailwind CSS",
+    issuer: "NxtWave Academy",
+    date: "March 2026",
+    year: 2026,
+    month: 3,
+    category: "Web Development",
+    fileUrl: "/certificates/HTML 2.jpg",
+    icon: "LayoutGrid",
+    credentialId: "NXT-CSS2-2026"
+  },
+  {
+    id: "podcast-cert",
+    title: "Technical Podcast Series Certificate",
+    issuer: "NxtWave Academy",
+    date: "February 2026",
+    year: 2026,
+    month: 2,
+    category: "Podcasts",
+    fileUrl: "/certificates/podcast certificate.png",
+    icon: "Award",
+    credentialId: "NXT-POD-2026"
+  },
+  {
+    id: "nodejs-cert",
+    title: "JavaScript & Node.js Essentials",
+    issuer: "NxtWave Academy",
+    date: "January 2026",
+    year: 2026,
+    month: 1,
+    category: "Programming",
+    fileUrl: "/certificates/Node JS_page.jpg",
+    icon: "Code2",
+    credentialId: "NXT-NODE-2026"
+  },
+  {
+    id: "setting-priorities",
+    title: "Setting Priorities (XPM 4.0)",
+    issuer: "NxtWave Academy",
+    date: "January 2026",
+    year: 2026,
+    month: 1,
+    category: "Skills",
+    fileUrl: "/certificates/Setting Priorities XPM 4.0_page.jpg",
+    icon: "Award",
+    credentialId: "NXT-XPM-2026"
+  },
+  {
+    id: "html-css-1",
+    title: "HTML & CSS Essentials",
+    issuer: "NxtWave Academy",
+    date: "December 2025",
+    year: 2025,
+    month: 12,
+    category: "Web Development",
+    fileUrl: "/certificates/HTML 1.jpg",
+    icon: "FileCode",
+    credentialId: "NXT-HTML1-2025"
+  },
+  {
+    id: "os-cert",
+    title: "Introduction to Operating Systems",
+    issuer: "NxtWave Academy",
+    date: "December 2025",
+    year: 2025,
+    month: 12,
+    category: "Programming",
+    fileUrl: "/certificates/Intoduction to OS_page.jpg",
+    icon: "Terminal",
+    credentialId: "NXT-OS-2025"
+  },
+  {
+    id: "mc-lalitha",
+    title: "Corporate Excellence Masterclass — Lalitha Tallapragada",
+    issuer: "PepsiCo & NxtWave",
+    date: "December 2025",
+    year: 2025,
+    month: 12,
+    category: "Events",
+    fileUrl: "/certificates/attending the Masterclass by Ms. Lalitha Tallapragada, PepsiCo.png",
+    icon: "Award",
+    credentialId: "MC-PEPSI-2025"
+  },
+  {
+    id: "mcp-workshop-cert",
+    title: "MCP Workshop & AI Automation",
+    issuer: "NxtWave Academy",
+    date: "November 2025",
+    year: 2025,
+    month: 11,
+    category: "AI",
+    fileUrl: "/certificates/MCP workshop.png",
+    icon: "Sparkles",
+    credentialId: "NXT-MCP-2025"
+  },
+  {
+    id: "mc-harshal-nagar",
+    title: "Talent Acquisition Masterclass — Harshal Nagar",
+    issuer: "LSEG & NxtWave",
+    date: "November 2025",
+    year: 2025,
+    month: 11,
+    category: "Events",
+    fileUrl: "/certificates/Mr. Harshal Nagar, Manager - Talent Acquisition at LSEG.png",
+    icon: "Award",
+    credentialId: "MC-LSEG-2025"
+  },
+  {
+    id: "mc-google-mrinal",
+    title: "Google Staff Engineer Masterclass — Mrinal Ahlawat",
+    issuer: "Google & NxtWave",
+    date: "October 2025",
+    year: 2025,
+    month: 10,
+    category: "Events",
+    fileUrl: "/certificates/Mrinal Ahlawat, staff Engineer at google.png",
+    icon: "Code2",
+    credentialId: "MC-GOOGLE-2025"
+  },
+  {
+    id: "llm-agentic-ai",
+    title: "Workshop on LLM & Agentic AI Systems",
+    issuer: "NxtWave Academy",
+    date: "September 2025",
+    year: 2025,
+    month: 9,
+    category: "Workshops",
+    fileUrl: "/certificates/Workshop on LLM and Agentic AI.png",
+    icon: "Sparkles",
+    credentialId: "NXT-LLM-2025"
+  },
+  {
+    id: "mc-shinpei-kato",
+    title: "Tech Entrepreneurship — Shinpei Kato",
+    issuer: "Tier IV & NxtWave",
+    date: "September 2025",
+    year: 2025,
+    month: 9,
+    category: "Events",
+    fileUrl: "/certificates/attending the Masterclass by Mr.Shinpei Kato, Founder & CEO Tier IV.png",
+    icon: "Sparkles",
+    credentialId: "MC-TIER4-2025"
+  },
+  {
+    id: "mc-pranjal-singh",
+    title: "Data Science Masterclass — Pranjal Singh",
+    issuer: "Udaan & NxtWave",
+    date: "August 2025",
+    year: 2025,
+    month: 8,
+    category: "Events",
+    fileUrl: "/certificates/attending the Masterclass by Mr. Pranjal Singh, Staff Data Scientist, Udaan.png",
+    icon: "Sparkles",
+    credentialId: "MC-UDAAN-2025"
+  },
+  {
+    id: "gen-ai-workshop",
+    title: "Generative AI Workshop",
+    issuer: "OpenAI & NxtWave Academy",
+    date: "July 2025",
+    year: 2025,
+    month: 7,
+    category: "AI",
+    fileUrl: "/certificates/GEN AI workshop.png",
+    icon: "Sparkles",
+    credentialId: "NXT-GENAI-2025"
+  },
+  {
+    id: "python-cert",
+    title: "Programming Foundations with Python",
+    issuer: "NxtWave Academy",
+    date: "July 2025",
+    year: 2025,
+    month: 7,
+    category: "Programming",
+    fileUrl: "/certificates/PYTHON.jpg",
+    icon: "Terminal",
+    credentialId: "NXT-PY-2025"
+  },
+  {
+    id: "sql-cert",
+    title: "Introduction to Databases (SQL)",
+    issuer: "NxtWave Academy",
+    date: "April 2025",
+    year: 2025,
+    month: 4,
+    category: "Databases",
+    fileUrl: "/certificates/SQL.jpg",
+    icon: "Database",
+    credentialId: "NXT-DB-2025"
+  }
+];
+
+export const certificationCategories = [
+  "All",
+  "Biotechnology",
+  "Certifications",
+  "Workshops",
+  "Hackathons",
+  "Events",
+  "Skills",
+  "AI",
+  "Programming",
+  "Web Development",
+  "Databases"
+];
