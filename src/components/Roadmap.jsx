@@ -91,7 +91,7 @@ const categoryColors = {
 
 const Roadmap = () => {
   const [activeStep, setActiveStep] = useState(0);
-  const [isPlaying, setIsPlaying] = useState(false);
+  const [isPlaying, setIsPlaying] = useState(true);
   const [viewMode, setViewMode] = useState('ribosome'); // 'ribosome' | 'grid'
 
   // Auto-play ribosome translation cycle
