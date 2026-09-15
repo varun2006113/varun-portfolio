@@ -115,7 +115,7 @@ const Contact = () => {
                   <div>
                     <span className="scientific-annotation text-stone-400 block">GITHUB PROFILE</span>
                     <span className="font-serif text-lg font-bold text-stone-900 group-hover:text-teal-800 transition-colors">
-                      github.com/varun-v
+                      github.com/varun2006113
                     </span>
                   </div>
                 </div>
