@@ -28,11 +28,11 @@ export const personalData = {
   contact: {
     email: "varun2006113v@gmail.com",
     linkedin: "https://www.linkedin.com/in/varunvenkat2006",
-    github: "https://github.com/varun2006113",
+    github: "https://github.com/varun-v",
     location: "Kovilpatti, Tamil Nadu, India",
     origin: "Kovilpatti, Tamil Nadu (கோவில்பட்டி)",
     availability: "Available for Internships & Research Collaborations"
   },
-  cvPath: "/assets/Varun-Venkatesh-CV.pdf",
+  cvPath: "/assets/Varun-V-CV.pdf",
   profilePhoto: "/assets/profile.png"
 };
